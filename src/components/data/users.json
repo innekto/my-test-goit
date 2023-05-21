@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Olivia",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://iili.io/HXmtGvn.png"
+  },
+  {
+    "id": 2,
+    "user": "Daria",
+    "tweets": 2156,
+    "followers": 256200,
+    "avatar": "https://iili.io/HXmtaBp.png"
+  },
+  {
+    "id": 3,
+    "user": "Nikita",
+    "tweets": 521,
+    "followers": 100632,
+    "avatar": "https://iili.io/HXmt12t.png"
+  },
+  {
+    "id": 4,
+    "user": "Viktoria",
+    "tweets": 965,
+    "followers": 230240,
+    "avatar": "https://iili.io/HXmtcEN.png"
+  },
+  {
+    "id": 5,
+    "user": "Yudjin",
+    "tweets": 1200,
+    "followers": 300380,
+    "avatar": "https://iili.io/HXmtEYX.png"
+  },
+  {
+    "id": 6,
+    "user": "Sem",
+    "tweets": 365,
+    "followers": 500660,
+    "avatar": "https://iili.io/HXmtl4I.png"
+  }
+]
