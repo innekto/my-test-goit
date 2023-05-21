@@ -5,7 +5,7 @@ export const ListEl = styled.ul`
 
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-
+  grid-gap: 15px;
   justify-items: center;
   align-items: center;
 `;
